@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="Styles.css">
-</head>
-<body>
-
-<h1>Qui Suis-je ?</h1>
+<h1>Qui suis-je ?</h1>
 
 - Je suis @SteveAsterAfovo.
 - Je m'intéresse à l'entrepreneuriat numérique.
@@ -13,10 +6,8 @@
 - J'aimerais m'initier aux langages de programmation spécifiquement ceux que back-end.
 
 
-<h1>Me suivre autrement</h1>
+<h1>Me suivre</h1>
 
-Facebook
-
-
-</body>
-</html>
+- <a href="facebook.com/SteveAsterAfovo.1" title="Steve Aster Afovo">Facebook</a>
+- 1<a href="Instagram.com/SteveAsterAfovo" title="Steve Aster Afovo">Instagram</a>
+- <a href="twitter.com/SteveAsterAfovo" title="Steve Aster Afovo">Twitter</a>
