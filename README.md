@@ -1,9 +1,9 @@
-<h1>Qui suis-je ?</h1>
+< h1 > Qui suis-je ? </h1
 
 - Je suis <strong>@SteveAsterAfovo</strong>.
 - Je m'intéresse à l'entrepreneuriat numérique.
-- Ne disposant pas des connaissances techniques dans le domaine, j'aurai aimé collaboré avec toutes personnes partageant les mêmes centre d'intérêt que moi.
-- J'aimerais m'initier aux langages de programmation spécifiquement ceux que back-end.
+- 
+ J'aimerais m'initier aux langages de programmation spécifiquement ceux que back-end.
 
 
 <h1>Me suivre</h1>
