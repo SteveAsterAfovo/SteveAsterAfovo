@@ -8,10 +8,6 @@
 
 <h1>Me suivre</h1>
 
-- <a href="linkedin.com/in/SteveAsterAfovo">LinkedIn</a>
-- <a href="facebook.com/SteveAsterAfovo.1">Facebook</a>
-- <a href="Instagram.com/SteveAsterAfovo">Instagram</a>
-- <a href="twitter.com/SteveAsterAfovo">Twitter</a>
+<a href="https://facebook.com/SteveAsterAfovo.1"><img src="https://www.unipile.com/wp-content/uploads/2022/06/logo-facebook-noir.png" title="Steve Aster Afovo" alt="Facebook "></a>
 
-
-<a href="https://facebook.com/SteveAsterAfovo.1"><img src="https://www.unipile.com/wp-content/uploads/2022/06/logo-facebook-noir.png" title="insérer le titre" alt="Facebook "></a>
+<a href="https://Instagram.com/SteveAsterAfovo"><img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" title="Steve Aster Afovo" alt="Facebook "></a>
