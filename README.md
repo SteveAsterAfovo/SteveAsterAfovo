@@ -1,4 +1,4 @@
-< h1 > Qui suis-je ? </h1
+<h1> Qui suis-je ? </h1
 
 - Je suis <strong>@SteveAsterAfovo</strong>.
 - Je m'intéresse à l'entrepreneuriat numérique.
