@@ -8,6 +8,7 @@
 
 <h1>Me suivre</h1>
 
-- <a href="facebook.com/SteveAsterAfovo.1" title="Steve Aster Afovo">Facebook</a>
-- 1<a href="Instagram.com/SteveAsterAfovo" title="Steve Aster Afovo">Instagram</a>
-- <a href="twitter.com/SteveAsterAfovo" title="Steve Aster Afovo">Twitter</a>
+- <a href="linkedin.com/in/SteveAsterAfovo">LinkedIn</a>
+- <a href="facebook.com/SteveAsterAfovo.1">Facebook</a>
+- <a href="Instagram.com/SteveAsterAfovo">Instagram</a>
+- <a href="twitter.com/SteveAsterAfovo">Twitter</a>
