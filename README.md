@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="Stylesheet.css">
+</head>
+<body>
+
 <h1>Qui Suis-je ?</h1>
 
 - Je suis @SteveAsterAfovo.
@@ -8,4 +15,8 @@
 
 <h1>Me suivre autrement</h1>
 
-Facebook 
+Facebook
+
+
+</body>
+</html>
