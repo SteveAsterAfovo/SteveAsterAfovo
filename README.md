@@ -2,8 +2,7 @@
 
 - Je suis <strong>@SteveAsterAfovo</strong>.
 - Je m'intéresse à l'entrepreneuriat numérique.
-- 
- J'aimerais m'initier aux langages de programmation spécifiquement ceux que back-end.
+- J'aimerais m'initier aux langages de programmation spécifiquement ceux que back-end.
 
 
 <h1>Me suivre</h1>
